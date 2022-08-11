@@ -5,3 +5,23 @@
 .card:hover {
     background-color: aqua;
 }
+
+.choose-plane {
+    background-color: blanchedalmond;
+    color: rgb(105, 172, 195);
+    border: 0cm;
+}
+
+.side-pad {
+    padding-left: 16rem !important;
+}
+
+.footer-right {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-right img {
+    height: 50px;
+    width: 120px;
+}
